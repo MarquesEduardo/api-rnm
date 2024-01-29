@@ -41,7 +41,6 @@ const model = computed({
       v-model="model"
       filled
       label="Character Name *"
-      hint="Name and surname to be more especifique"
       lazy-rules
       :rules="[(val) => (val && val.length > 0) || 'Please type something']"
       class="input"
@@ -73,9 +72,7 @@ const model = computed({
 }
 
 .input {
-  margin-bottom: 50px;
   border-color: white !important;
-  color: white !important;
   background-color: white !important;
 }
 </style>
