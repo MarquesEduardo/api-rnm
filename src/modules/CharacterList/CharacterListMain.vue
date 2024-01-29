@@ -67,12 +67,14 @@ const model = computed({
 
 <style lang="scss" scoped>
 .text-h2 {
-  color: $brown;
+  color: white;
   margin: 20px 0 50px;
   text-align: center;
 }
 
 .input {
   margin-bottom: 50px;
+  border-color: white !important;
+  color: white !important;
 }
 </style>
