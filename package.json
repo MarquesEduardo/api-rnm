@@ -11,7 +11,8 @@
     "test": "echo \"No test specified\" && exit 0",
     "dev": "quasar dev",
     "build": "quasar build",
-    "preview": "quasar preview"
+    "preview": "quasar preview",
+    "serve": "quasar serve"
   },
   "dependencies": {
     "@apollo/client": "^3.7.10",
