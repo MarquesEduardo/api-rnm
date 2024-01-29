@@ -1,18 +1,14 @@
 {
-  "name": "api-rnm",
-  "version": "0.0.2",
-  "description": "Projeto para apresentação de integração com API",
-  "productName": "API RnM",
-  "author": "Eduardo Marques <connect@eduardomarques.dev>",
+  "name": "engaged",
+  "version": "0.0.1",
+  "description": "Desafio Frontend da empresa Engaged",
+  "productName": "Desafio Engaged",
+  "author": "Lucas Mitchel <lucasmitchelcampos17@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
     "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
-    "test": "echo \"No test specified\" && exit 0",
-    "dev": "quasar dev",
-    "build": "quasar build",
-    "preview": "quasar preview",
-    "serve": "quasar serve"
+    "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
     "@apollo/client": "^3.7.10",
