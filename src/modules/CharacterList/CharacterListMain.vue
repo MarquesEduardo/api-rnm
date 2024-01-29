@@ -40,6 +40,7 @@ const model = computed({
     <q-input
       v-model="model"
       filled
+      dark
       label="Character Name *"
       hint="Name and surname to be more especifique"
       lazy-rules
@@ -74,7 +75,5 @@ const model = computed({
 
 .input {
   margin-bottom: 50px;
-  border-color: white !important;
-  color: white !important;
 }
 </style>
