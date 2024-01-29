@@ -27,10 +27,11 @@ const classes = computed(() => {
 .text {
   line-height: 1.15;
   margin: 0;
+  color: white;
 }
 .text-h1 {
   font-size: 30px;
-  color: $brown;
+  color: white;
   margin: 40px 0 0;
 
   @media (min-width: $sm) {

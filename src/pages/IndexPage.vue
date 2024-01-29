@@ -29,6 +29,7 @@ import { BaseText } from "src/components/ui/base";
 <style lang="scss" scoped>
 .home-hero {
   height: 100vh;
+  background-color: #121e2f;
   .text-h1 {
     text-align: center;
     margin-bottom: 50px;
