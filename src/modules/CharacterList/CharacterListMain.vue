@@ -76,5 +76,6 @@ const model = computed({
   margin-bottom: 50px;
   border-color: white !important;
   color: white !important;
+  background-color: white !important;
 }
 </style>
