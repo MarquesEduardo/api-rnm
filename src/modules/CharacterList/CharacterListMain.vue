@@ -39,7 +39,7 @@ const model = computed({
 
     <q-input
       v-model="model"
-      outlined
+      filled
       label="Character Name *"
       hint="Name and surname to be more especifique"
       lazy-rules
