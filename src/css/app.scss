@@ -7,13 +7,13 @@ body {
 }
 
 input[type="text"] {
-  color: $brown;
+  color: white;
   font-size: 25px;
 }
 
 .q-field__messages {
   font-size: 18px;
-  color: $brown;
+  color: white;
 }
 
 a {
@@ -64,8 +64,8 @@ p {
   }
 
   &.is-yellow {
-    --color: #{$brown};
-    --border-color: #{$brown};
+    --color: #{white};
+    --border-color: #{white};
     --back-color: #{$yellow};
 
     &:hover {
