@@ -1,12 +1,8 @@
-# Desafio Engaged (engaged)
+# Projeto de Integração com API
 
-Desafio Frontend da empresa Engaged
+Projeto de Integração com API Rick and Morty para demonstração.
 
-Link do desafio - https://engagedu.notion.site/Desafio-Front-end-EngagED-d7543481dd7d4f2da1f5f565303b242c
-
-## Instalar o projeto!
-
-## Instalar as dependências
+## Instalação
 
 ```bash
 yarn
@@ -14,10 +10,12 @@ yarn
 npm install
 ```
 
-### Inicie o aplicativo no modo de desenvolvimento (recarregamento de código dinâmico, relatório de erros, etc.)
+### Modo de desenvolvimento
 
 ```bash
 quasar dev
+# or
+npm run dev
 ```
 
 ### Lint
@@ -36,45 +34,37 @@ yarn format
 npm run format
 ```
 
-### Builde o aplicativo para produção
+### Build o aplicativo para produção
 
 ```bash
 quasar build
+# or
+npm run build
 ```
 
 # 💫 Sobre mim:
 
-Trabalho atualmente como desenvolvedor Frontend, e gosto muito dessa área! Recentemente em meus projetos venho utilizando tecnologias e frameworks como Vue.js e Gridsome, e estou sempre em busca de aprender mais!
+Eu sou um profissional apaixonado pelo mundo da programação. Iniciei meus estudos criando pequenos projetos com a ajuda de sites gratuitos de aprendizado de código aberto e descobri que há um mundo de conhecimento a ser explorado.
 
-Sempre fui uma pessoa dedicada e esforçada em qualquer serviço. Meu primeiro emprego foi em 2013 como ajudante em uma marcenaria. Tomei gosto por trabalhar com projetos e ver que eu podia usar minha criatividade pra resolver problemas. Desde essa época já tinha contato com computadores e sempre fui interessado na área. Só não fazia ideia que eu poderia usar essa criatividade pra solucionar problemas de uma forma muito mais completa pela web.
+Atualmente, estou focado em aumentar meu conhecimento trabalhando com as ferramentas e tecnologias mais recentes no mercado.
 
-Depois de alguns anos me envolvi de verdade, estudando todos os dias e trabalhando como desenvolvedor em projetos freelancer; e posso dizer que é a profissão pelo qual sou apaixonado hoje. É muito revigorante um trabalho onde você precisa estar em constante aprendizado para estar fazendo tudo com excelência. Desta forma, eu estou sempre aprendendo algo novo e ampliando meu conhecimento na área que amo.
-Gosto de novos desafios, principalmente ligados a resolução de problemas e a criatividade na implantação de soluções para os mesmos. Trabalho bem em equipe e gosto de manter uma boa relação com os colegas de trabalho.
-Alguns dos meu conhecimentos como desenvolvedor Web:
+- 👨‍💻 Visite meu website [eduardomarques.dev](https://eduardomarques.dev/)
 
--Frontend: HTML5, CSS3, ECMA Script (JavaScript), Vuejs, VueX, Bulma, Elementor; -Backend: PHP, WordPress, Temas personalizados WP, Plugins Personalizados WP, Woocommerce, LEMP Stack;
+- 💬 Idiomas que falo: **Portuguese - Native / English - Fluent / French - Beginner**
 
--Ferramentas e Outros: HTTP, nGinx, GIT, GIT Flow, Gitlab, GitHub, SSH, Linux, MySQL, SEO, Slack;
-
-Fique a vontade para entrar em contato comigo. Espero que juntos possamos formar uma ótima equipe!
-
-lucasmitchelcampos17@gmail.com
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mitchel17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 📫 Como me contatar: **connect@eduardomarques.dev**
 
 ---
 
-## 🌐 Social: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucasmitchel/)
+## 🌐 Social: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardopereiramarques/)
 
 ---
 
 # Sobre o projeto
 
-_Github_: https://github.com/Lucas-Mitchel17/desafio-engaged
+_Github_: https://github.com/MarquesEduardo/api-rnm
 
-_Board_: https://github.com/users/Lucas-Mitchel17/projects/3
-
-_Deploy:_ https://engaged-lucas-mitchel.vercel.app/
+_Deploy:_ https://api-rnm-eduardo-marques.vercel.app/
 
 _Documentação Base para desenvolvimento do projeto:_ https://www.notion.so/Arquitetura-3ee16c055b17461e8e553e9378c90430
 
